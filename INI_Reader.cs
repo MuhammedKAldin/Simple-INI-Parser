@@ -1,3 +1,6 @@
+[test.ini]
+``` Offline=true ``` 
+
 ReadINI("Offline",StaticDataManager.appSettings);
 
 public string ReadINI(string key, string path)

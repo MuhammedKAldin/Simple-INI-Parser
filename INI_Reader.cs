@@ -1,5 +1,5 @@
 [test.ini]
-``` Offline=true ``` 
+Offline=true
 
 ReadINI("Offline",StaticDataManager.appSettings);
 
